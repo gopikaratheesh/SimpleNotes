@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleNotes</string>
+    <string name="Existing_Account">Have an Account</string>
+    <string name="new_account">New Account</string>
+    <string name="welcome_to_penit">Welcome to PenIt</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="log_in">Log In</string>
+    <string name="todo">TODO</string>
+</resources>

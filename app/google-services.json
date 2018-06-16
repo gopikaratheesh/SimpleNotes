@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "461282754908",
+    "firebase_url": "https://simplenotes-f7fa1.firebaseio.com",
+    "project_id": "simplenotes-f7fa1",
+    "storage_bucket": "simplenotes-f7fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461282754908:android:fe1dbbb2324a466e",
+        "android_client_info": {
+          "package_name": "com.example.gopika.simplenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461282754908-2r9kga3cjmst05mief8or5kk0jrc6h7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gopika.simplenotes",
+            "certificate_hash": "5f4cc5a84c726088ff80e9649a15ccacc73aae47"
+          }
+        },
+        {
+          "client_id": "461282754908-kf2d55s8h0f2glstjr5jaqlgk8q1lpka.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "461282754908-kf2d55s8h0f2glstjr5jaqlgk8q1lpka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZoVtJ0uQYVvwjq7iOv4Walx7tzK8L7bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461282754908-kf2d55s8h0f2glstjr5jaqlgk8q1lpka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
